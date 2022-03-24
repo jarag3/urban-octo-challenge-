@@ -9,3 +9,5 @@ This challenge consists of refactoring both the .html and .css file to meet a ce
 # Screenshot 
 
 ![Screenshot 2022-03-24 001346](https://user-images.githubusercontent.com/101682699/159862488-78c47e99-dc98-4e33-a6e0-b388914a539c.png)
+
+![Screenshot 2022-03-24 001432](https://user-images.githubusercontent.com/101682699/159862746-2a5479ff-1611-4174-ae40-49e849fb3596.png)
