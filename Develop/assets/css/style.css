@@ -1,9 +1,12 @@
+/* Universal Selector Start */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
+/* Universal Selector End */
 
+/* Start Body Styling */
 body {
     background-color: #d9dcd6;
 }
@@ -198,3 +201,5 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+/* End Body Styling  */
